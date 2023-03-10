@@ -1,6 +1,6 @@
 {
   "names": {
-    "tarasfo": "4a4d64e2aef518a3ec0e27bbe192544cfad272aa47160a6ee044228239fd500e"
+    "tarasfo":"4a4d64e2aef518a3ec0e27bbe192544cfad272aa47160a6ee044228239fd500e"
   },
 "relays": {
     "4a4d64e2aef518a3ec0e27bbe192544cfad272aa47160a6ee044228239fd500e": [ "wss://relay.damus.io", "wss://relay.snort.social" ]

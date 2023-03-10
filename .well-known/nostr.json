@@ -1,5 +1,8 @@
 {
   "names": {
     "tarasfo": "4a4d64e2aef518a3ec0e27bbe192544cfad272aa47160a6ee044228239fd500e"
-  }
+  },
+"relays": {
+    "ef015fbfa557e2a3bb529e1f4a4fb8ebce3fed8ed80ceccab6f0f54eea9ea143": [ "wss://relay.damus.io", "wss://relay.snort.social" ]
+  }	
 }
